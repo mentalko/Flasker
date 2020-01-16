@@ -1,2 +1,2 @@
 # Flasker
-I am developing blog by tutorial.
+Blog on Flask framework.
