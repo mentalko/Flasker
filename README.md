@@ -1,2 +1,2 @@
 # Flasker
-I'm trying to use it. 
+I am developing blog by tutorial.
